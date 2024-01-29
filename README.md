@@ -1,3 +1,3 @@
 # Sunbase
 
-Java Assessmenet 
+Java assessment 
